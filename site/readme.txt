@@ -1,5 +1,9 @@
 browser-sync start --server --directory --files "*"
-see week 1 dev env setup part 3
+browser-sync start --server --directory --files "**/*"
+- see week 1 dev env setup part 3
+
+- lecture 25 p2 getbootstrap
+- lecture 29
 
 1. git clone http://github.com/...
 2. git status
@@ -7,7 +11,7 @@ see week 1 dev env setup part 3
 4. git status
 
 
-1. git add . // add everything in local folder, mark to commit
+1. git add .   // add everything in local folder, mark to commit
 2. git commit -m "my initial commit"
-3. get push
+3. git push
 
