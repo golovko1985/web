@@ -3,7 +3,7 @@ browser-sync start --server --directory --files "**/*"
 - see week 1 dev env setup part 3
 
 - lecture 25 p2 getbootstrap
-- lecture 29
+- lecture 29 get google font
 
 1. git clone http://github.com/...
 2. git status
