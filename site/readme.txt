@@ -1,5 +1,3 @@
-
-
 browser-sync start --server --directory --files "*"
 browser-sync start --server --directory --files "**/*"
 - see week 1 dev env setup part 3
